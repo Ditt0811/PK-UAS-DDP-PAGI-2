@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "deva",
+    "hasWife": false,
+    "hasChildren": false,
+    "numberOfChildren": 0
+  }
+]
